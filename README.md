@@ -1,30 +1,30 @@
 # Check Our New Bot Repo & Video :
 
-[Video](https://youtu.be/3pN0W4KzzNY) 🎥
+[Video] 🎥
 
-Repo : [SongProBot 🎻](https://GitHub.Com/TamilBots/SongPlayRoBot)
+Repo : [https://t.me/latestgamezone12]
 
-Bot : [Song Pro Bot 🧚‍](https://t.me/SongProBot)
+Bot : [https://t.me/latestgamezone12]
 
 # SongPlayRoBot
 3X Fast Telethon Based Bot ⚜
 
 Open Source Bot 👨🏻‍💻
 
-Demo : [SongProBot  🎻](https://t.me/SongProBot) 💃🏻
+Demo : [SongProBot  🎻] 💃🏻
 
 Easy To Deploy 🤗
 
 # Click Below Image to Deploy
-[![Deploy](https://telegra.ph/file/9d337b3414bbf8e39ba79.jpg)](https://heroku.com/deploy?template=https://github.com/IVETRI/SongPlayRoBot.git)
+[![Deploy](https://cdn4.vectorstock.com/i/1000x1000/24/68/rock-music-background-with-moon-vector-4522468.jpg)](https://heroku.com/deploy?template=https://github.com/Vijayshan1994/TGL-Music-Bot.git)
 # DEPLOY
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/IVETRI/SongPlayRoBot.git)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Vijayshan1994/TGL-Music-Bot.git)
 
 # Group
-You can also join our support group [HERE!](https://t.me/TamilSupport) 👨🏻‍💻
+You can also join our support group [HERE!](https://t.me/latestgamezone12) 👨🏻‍💻
 
 # Report error
-Report your problem along with your name to This [PERSON](https://t.me/IMVETRI) 😪
+Report your problem along with your name to This [PERSON](https://t.me/NeeLaKanda_SHiV_BhAKtH_NiLaVaN) 😪
 
 
 
